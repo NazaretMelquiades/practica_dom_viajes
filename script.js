@@ -12,7 +12,7 @@ const viajes = [
   {
     title: "TOLEDO",
     description: "Ven a conocer las escaleras mecánicas más largas de España",
-    img: "/assets/toledo.jpg"
+    img: "./assets/toledo.jpg"
   }
 ];
 
